@@ -1,0 +1,26 @@
+{
+  "name": "chatgptprompter",
+  "version": "1.0.0",
+  "description": "Create a .txt file that contains all code in the active folder for pasting into gpt prompt",
+  "main": "gptprompt.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casimir-Kuzyk/chat-gpt-prompt-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Casimir-Kuzyk/chat-gpt-prompt-tool/issues"
+  },
+  "homepage": "https://github.com/Casimir-Kuzyk/chat-gpt-prompt-tool#readme"
+}
